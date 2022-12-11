@@ -4,6 +4,6 @@
     * [X] SCV
     * [X] MLP
     * [ ] Pendent
-* [ ] El MLP i el KNN fa overfit (0.75 train vs 0.55 test). Investigar perque.
+* [X] El MLP i el KNN fa overfit (0.75 train vs 0.55 test). Investigar perque.
 * [ ] Mostrar les metriques i resultats de cada model (ROC curve, confusion matrix, explainer, etc)
 * [ ] Documentar tot el treball en un PDF, (text, grafiques, plots, explicacions, TOT). (max 25 pagines)
