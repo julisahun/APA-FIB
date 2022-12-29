@@ -3,9 +3,7 @@
 * [ ] Implementar 3 models no linials i recopilar els resultats (els models que hem de fer servir estan en el enunciat)
     * [X] SCV
     * [X] MLP
-    * [ ] Decision Tree / Random Forest / ExtraTrees
-    * [ ] Voting
-    * [ ] Stacking
+    * [X] Random Forest
 * [X] El MLP i el KNN fa overfit (0.75 train vs 0.55 test). Investigar perque.
 * [ ] Mostrar les metriques i resultats de cada model (ROC curve, confusion matrix, explainer, etc)
 * [ ] class_weight param en els models
